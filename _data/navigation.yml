@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
+- title: Registreeri
   url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Võta ühendust ja registreeri."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Blogi
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Kasuliku sisuga tekstid."
   image: 400x250.gif
 
-- title: Media
+- title: Meedia
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Materjalid ja viited kasuliku sisuga asjadele."
   image: 400x250.gif
 
-- title: About
+- title: Meist
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Kes me oleme ja mida me teeme."
   image: 400x250.gif

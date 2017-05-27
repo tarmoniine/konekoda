@@ -1,13 +1,13 @@
 # Footer navigation links
 
-- title: Home
+- title: Avaleht
   url: /
 
-- title: Getting Started
+- title: Registreeri
   url: /getting-started/
 
-- title: About
+- title: Meist
   url: /about/
 
-- title: Terms
+- title: Tingimused
   url: /terms/

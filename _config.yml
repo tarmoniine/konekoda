@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Skinny Bones"
-description: "A lightweight site starter for Jekyll"
+title: "Kõnekoda"
+description: "Abiks kõnele ja sellega seotud asjadele."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -58,4 +58,3 @@ exclude:
   - tmp
 
 
-keep_file: ['_site/index.html']
