@@ -30,6 +30,7 @@ owner:
   web: " "
 
 
+
 include:
   - .htaccess
 exclude:
@@ -55,3 +56,6 @@ exclude:
   - package.json
   - spec
   - tmp
+
+
+keep_file: ['_site/index.html']
