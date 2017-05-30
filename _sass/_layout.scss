@@ -145,7 +145,7 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(9);
+			@include span-columns(12);
 		}
 	}
 	.page-title {
@@ -235,6 +235,7 @@
 	color: $white;
 	@include media($large) {
 		background-size: cover;
+
 	}
 }
 .page-lead-content {

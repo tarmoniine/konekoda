@@ -7,27 +7,9 @@ locales:
   en: &DEFAULT_EN
     overview: "Ülevaade"
     toc: "Sisukord"
-    written_by: "Written by"
-    updated: "Updated"
-    share: "Share on"
-  en_US:
-    <<: *DEFAULT_EN     # use English translation for en_US
+    written_by: "Kirja pani"
+    updated: "Lisas"
+    share: "Jaga"
   en_UK:
     <<: *DEFAULT_EN     # use English translation for en_UK
 
-  # German translation
-  # -------------------
-  de: &DEFAULT_DE
-    <<: *DEFAULT_EN     # load English values as default
-    overview: "&Uuml;bersicht"
-    toc: "Inhalt"
-    written_by: "Verfasst von"
-    updated: "Zuletzt aktualisiert:"
-    share: ""
-  de_DE:
-    <<: *DEFAULT_DE     # use German translation for de_DE
-
-  # French translation (TODO)
-  # -------------------
-  fr_FR:
-    <<: *DEFAULT_EN      # load English values as default

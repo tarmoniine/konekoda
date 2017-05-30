@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Registreeri
-  url: /getting-started/
-  excerpt: "Võta ühendust ja registreeri."
-  image: 400x250.gif
-
-- title: Blogi
-  url: /articles/
-  excerpt: "Kasuliku sisuga tekstid."
-  image: 400x250.gif
-
-- title: Meedia
-  url: /media/
-  excerpt: "Materjalid ja viited kasuliku sisuga asjadele."
-  image: 400x250.gif
-
 - title: Meist
-  url: /about/
-  excerpt: "Kes me oleme ja mida me teeme."
+  url: /meist/
+  image: 400x250.gif
+
+- title: Millal pöörduda?
+  url: /millal-poorduda/
+  image: 400x250.gif
+
+- title: Nõuanded
+  url: /nouanded/
+  image: 400x250.gif
+
+- title: Teenused ja hinnakiri
+  url: /teenused-hinnakiri/
+  image: 400x250.gif
+
+- title: Kontakt
+  url: /kontakt/
   image: 400x250.gif
