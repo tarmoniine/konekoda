@@ -5,7 +5,7 @@ description: "Abiks kõnele ja sellega seotud asjadele."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en
-# url: "https://tarmoniine.github.io/skinny-bones/"
+url: "https://tarmoniine.github.io/skinny-bones/"
 baseurl: "/skinny-bones/"
 feed:
   path: atom.xml
