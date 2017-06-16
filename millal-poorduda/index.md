@@ -12,14 +12,14 @@ image:
 
 ## Lapsed
 
-[Lapsel on kogelus](/poorduda/laste-kogelus/)
+[Lapsel on kogelus](poorduda/laste-kogelus/)
 
-[Lapsel on häälduspuue](/poorduda/haalduspuue)
+[Lapsel on häälduspuue](poorduda/haalduspuue)
 
-[Kas lapse kõne areneb normaalselt?](/poorduda/lapse-kone-areng)
+[Kas lapse kõne areneb normaalselt?](poorduda/lapse-kone-areng)
 
 ## Täiskasvanud
 
-[Kas see on afaasia või düsartria?](/poorduda/afaasia-dysartria)
+[Kas see on afaasia või düsartria?](poorduda/afaasia-dysartria)
 
-[Kas see on dementsus?](/poorduda/dementsus)
+[Kas see on dementsus?](poorduda/dementsus)
