@@ -1,9 +1,9 @@
 ---
-layout: article
-title: "Kontakt"
-date: 2015-06-02T09:44:20-04:00
-modified: 2015-08-27T14:56:44-04:00
-excerpt: "Kes me oleme."
+layout: kontakt
+title: " "
+date: 2017-06-06T09:44:20-04:00
+modified: 2017-06-06T14:56:44-04:00
+excerpt: "KONTAKT"
 image:
   feature:
   teaser:
@@ -11,7 +11,8 @@ image:
 share: false
 ads: false
 ---
+Meie aadress on Tartu - Tänav see ja see
 
-This is a work in progress.
+Vastu võtuks tuleb eelnevalt aeg kokku leppida. 
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Seda saate teha siit: <a href="{{ site.url }}/vota-yhendust/" class="btn">Registreeri vastuvõtule</a>

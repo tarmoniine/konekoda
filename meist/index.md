@@ -1,8 +1,6 @@
 ---
 layout: article
 title: "Meist"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
 excerpt: "Kes me oleme."
 image:
   feature:
@@ -14,9 +12,21 @@ ads: false
 
 Oleme neli logopeedi, kes soovivad logopeedilise teenuse ja nõustamise inimestele lähemale tuua. Loe meist lähemalt: 
 
+<figure>
+	<img src="{{ site.url }}/images/meeskond.jpg">
+	<figcaption>Meie meeskond.</figcaption>
+</figure>
+
+
 {% include toc.html %}
 
 ## Aaro Nursi (kliiniline logopeed, tase 7) 
+
+<figure>
+	<img src="{{ site.url }}/images/aaro.jpg">
+</figure>
+
+
 Lõpetasin 2011. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pärast ülikooli lõpetamist asusin tööle AS Lääne-Tallinna Keskhaigla närvihaiguste kliinikusse. Hetkel töötan SA Tartu Ülikooli Kliinikumis kliinilise logopeedina. Minu patsientideks on erinevatest neuroloogilistest haigustest (nt. insult, ajukasvaja, dementsus) tingitud kõne- ja neelamishäirega inimesed. Lisaks töötan Tartu Ülikoolis logopeedia õppejõuna ning mul on pooleli doktoriõpingud. Täiendan ennast pidevalt erialastel koolitustel ja konverentsidel nii Eestis kui ka välismaal. Arvan, et logopeediline teraapia on nagu hea rätsepatöö – individuaalne, kvaliteetne ja kaasaegne. 
 
 * 2016   SA Põhja-Eesti Regionaalhaigla ja Brisbane Prince Charles Hospital The Critical Care Research Group, Trahheostomeeritud patsiendi multidistsiplinaarne käsitlus 
@@ -27,6 +37,11 @@ Lõpetasin 2011. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pä
 Rohkem infot minu kohta saab lugeda [*Eesti Teadusinfosüsteemist.*](https://www.etis.ee/Portal/Persons/Display/ee4a2acb-4ac4-4de3-ad15-02a13e05e7d8)
 
 ## Helena Oselin (kliiniline logopeed tase 8)
+
+<figure>
+	<img src="{{ site.url }}/images/helena.jpg">
+</figure>
+
 Lõpetasin 2002. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. 2006. a.  sain TÜ eripedagoogika osakonnas teadusmagistri kraadi. Töötasin pikalt logopeedina Ida- Tallinna Keskhaiglas, kus tegelesin nii laste kui täiskasvanutega. Alates 2014. aastast töötan Tartu Ülikooli Kliinikumi lastekliinikus ja närvikliinikus.  Ma täiendan oma teadmisi pidevalt erialastel koolitustel nii Eestis kui välismaal. Olen spetsialiseerunud kogelusteraapiale, kuid tegelen ka muude kõneprobleemidega. Mulle meeldib logopeedi töö juures võimalus aidata kliendil oma kõnet paremaks muuta. Väga sageli muutub kõneteraapia käigus paremaks ka kliendi enesetunne, suureneb enesekindlus ja paraneb toimetulek igapäevaste suhtlemisolukordadega.
 
 #### Olulisemad läbitud koolitused:
@@ -41,6 +56,11 @@ Lõpetasin 2002. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. 200
 
 
 ## Liisa Kolk (logopeed, tase 7)
+
+<figure>
+	<img src="{{ site.url }}/images/liisa.jpg">
+</figure>
+
 Lõpetasin 2016. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pärast lõpetamist asusin tööle Tartu Ülikooli Kliinikumi närvikliinikusse, kus tegelen erinevate neuroloogiliste haigustega (nt. Parkinsoni tõbi, ALS, sclerosis multiplex) seotud kõne- ja neelamisprobleemide diagnostika ja teraapiaga. Lisaks töötan väikese koormusega rehabilitatsioonimeeskonnas. Mind huvitab väga töö täiskasvanutega, eelkõige insuldihaigete ja dementsusega isikute kõneteraapia. Leian, et õigeaegne ja oskuslik logopeediline sekkumine parandab oluliselt nii inimese kui tema lähedaste toimetulekut ja elukvaliteeti.
 
 #### Olulisemad läbitud koolitused:
@@ -52,6 +72,11 @@ Lõpetasin 2016. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pä
 
 
 ## Siiri Karm
+
+<figure>
+	<img src="{{ site.url }}/images/siiri.jpg">
+</figure>
+
 Lõpetasin 2010. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Peale lõpetamist töötasin mitmel rindel: tegin logopeedi tööd erinevates lasteaedades, koolides ja ka nõustamiskeskuses. Alates 2013. aastast on minu põhitöökohaks Hariduse Tugiteenuste Keskus Tartus. Lisaks olen töötanud erinevates rehabilitatsioonimeeskondades. Minu erihuviks on laste kõne areng ja selle toetamine. Usun, et palju saab ära teha lapsevanema teadlikkuse tõstmisega – teadliku vanema ja logopeedi koostöös muutub lapsele tehtav kõnearendus topeltefektiivseks. Minu soov on jagada oma teadmisi lapsevanematega nii, et lapsevanem muutuks „oma lapse logopeediks“.
 
 #### Olulisemad läbitud koolitused:

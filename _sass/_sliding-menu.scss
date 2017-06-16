@@ -52,6 +52,12 @@
   }
 }
 
+@media only screen and (max-width: 1000px) {
+    #sliding-menu-button {
+        display: none;
+    }
+}
+
 /*
    Sliding content
    ========================================================================== */

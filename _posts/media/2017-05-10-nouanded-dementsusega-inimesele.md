@@ -6,6 +6,8 @@ excerpt: "Tühi rida"
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false
+image:
+  teaser: metsatee.jpg
 ---
 
 ## SÕNADE MEENUTAMINE – MÕNED ABIVAHENDID

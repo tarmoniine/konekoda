@@ -3,12 +3,14 @@ layout: archive
 title: "Nõuanded"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "Kasulikud nõuanded"
+excerpt: " "
 tags: []
 image:
   feature:
   teaser:
 ---
+
+### Loe siit, kuidas aidata ennast või oma lähedast.
 
 <div class="tiles">
 {% for post in site.categories.media %}

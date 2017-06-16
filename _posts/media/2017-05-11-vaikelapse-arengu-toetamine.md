@@ -2,10 +2,11 @@
 layout: article
 title: "Viis olulist nõuannet väikelapse kõne arengu toetamiseks"
 categories: media
-excerpt: "Tühi rida"
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false
+image:
+  teaser: lill4.jpg
 ---
 
 
