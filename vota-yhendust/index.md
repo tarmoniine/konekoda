@@ -36,7 +36,6 @@ ads: false
 		</p>
 		<p>
 			<input class="btn" type="submit" value="Submit" />
-      <label for="Submit">Saada</label>
 		</p>
 	</form>
 </fieldset>

@@ -15,4 +15,4 @@ Meie aadress on Tartu - Tänav see ja see
 
 Vastu võtuks tuleb eelnevalt aeg kokku leppida. 
 
-Seda saate teha siit: <a href="{{ site.url }}/vota-yhendust/" class="btn">Registreeri vastuvõtule</a>
+Seda saate teha siit: <a href="{{ site.url }}/vota-yhendust/" class="btn">Võta ühendust</a>

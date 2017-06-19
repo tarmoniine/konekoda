@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Täiskasvanule, kes kogeleb"
-categories: media
-excerpt: "Tühi rida"
+categories: nouanded
+excerpt: "Mis on kogelus ja mida saab sellega ettevõtta?"
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false

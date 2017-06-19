@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Nõuanded dementsusega inimesele"
-categories: media
-excerpt: "Tühi rida"
+categories: nouanded
+excerpt: "Mõned abivahendid, kuidas aidata meentuda sõnu."
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false

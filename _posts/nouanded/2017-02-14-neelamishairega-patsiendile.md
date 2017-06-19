@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "Neelamishäirega patsiendile"
-categories: media
+categories: nouanded
+excerpt: "11 soovitust tuvaliseks neelamiseks."
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false

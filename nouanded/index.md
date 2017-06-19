@@ -13,7 +13,7 @@ image:
 ### Loe siit, kuidas aidata ennast või oma lähedast.
 
 <div class="tiles">
-{% for post in site.categories.media %}
+{% for post in site.categories.nouanded %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

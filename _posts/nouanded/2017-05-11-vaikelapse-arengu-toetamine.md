@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "Viis olulist nõuannet väikelapse kõne arengu toetamiseks"
-categories: media
+categories: nouanded
+excerpt: "5 soovitust lapse kõne arengu hüvanguks."
 author: kirja_tsura
 tags: [Häälduspuuded, readability, test]
 ads: false
