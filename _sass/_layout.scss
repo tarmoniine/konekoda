@@ -27,9 +27,9 @@
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
-	font-family: $alt-font;
+	font-family: 'Buda', cursive;
 	font-weight: 700;
-	@include font-size(20,no);
+	@include font-size(30,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 }
@@ -145,7 +145,7 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(9);
+			@include span-columns(12);
 		}
 	}
 
@@ -162,6 +162,7 @@
 	}
 	@at-root {
 		.page-content {
+			text-align:justify;
 			@include fill-parent;
 			// larger font for intro paragraph
 			> p {
@@ -249,7 +250,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+	color: $black;
 	@include media($large) {
 		background-size: cover;
 
@@ -265,6 +266,8 @@
 	}
 	h1 {
 		@include font-size(48);
+		 font-family: 'Buda', cursive;
+		 text-transform: uppercase;
 		@include media($medium) {
 			@include font-size(60);
 		}

@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: speech-therapist.jpg
+  feature: uustaust.jpg
 ---
 
 <div class="tiles">

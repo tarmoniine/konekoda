@@ -21,6 +21,10 @@
    ========================================================================== */
 
 .sliding-menu-button {
+  visibility: hidden; /* hide menu button by default - and only if screen is under 1000px width - show menu button */
+  @media screen and (max-width: 1000px) {
+    visibility: visible;
+  }
   position: fixed;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
@@ -52,6 +56,7 @@
   }
 }
 
+/* hides navigation menu  */
 @media only screen and (max-width: 1000px) {
     #sliding-menu-button {
         display: none;
@@ -104,7 +109,7 @@
       @include media($small) {
         @include font-size(48,no,1);
       }
-      font-family: $base-font;
+      font-family: 'Buda', cursive;
       text-transform: uppercase;
       font-weight: 400;
     }
@@ -152,7 +157,7 @@
     .title {
       display: block;
       margin-left: 60px;
-      font-family: $alt-font;
+      font-family: 'Buda', cursive;
       @include font-size(24,no);
       font-weight: 700;
       @include media($small) {
@@ -176,7 +181,7 @@
     font-style: italic;
   }
   .menu-item .home a {
-    @include font-size(32);
+    @include font-size(20);
   }
 }
 

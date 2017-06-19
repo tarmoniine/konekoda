@@ -19,7 +19,7 @@ image:
 * kõne-ja keelehäire määratlemine ehk diagnoosi püstitamine, häire raskusastme määramine;
 * logopeedilise teraapia vajaduse, sobivuse ja motivatsiooni hindamine;
 * teraapiaplaani koostamine, kus kajastuvad eesmärgid ja metoodika.
- 
+
 ### Logopeediline teraapia 
 
 **Näidustused teenuse osutamiseks:** Logopeedilise uuringu tulemusel on selgunud, et klient vajab logopeedilist teraapiat. 
@@ -29,7 +29,7 @@ image:
 * kliendi kommunikatsioonivõime taastamine/kujundamine/arendamine; 
 * kliendi ja/või tema lähedaste juhendamine iseseisvaks teraapia jätkamiseks kodus, harjutusmaterjalide valmistamine/kaasa andmine;
 * kliendilt ja/või tema lähedaselt tagasiside küsimine.
- 
+
 ### Kõneiseloomustuse koostamine   
 
 **Näidustused teenuse osutamiseks:** klient vajab kõneiseloomustust. 
