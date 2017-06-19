@@ -3,9 +3,7 @@ layout: article
 title: "Meist"
 excerpt: "Kes me oleme."
 image:
-  feature:
-  teaser:
-  thumb:
+  teaser: meeskond.jpg
 share: false
 ads: false
 ---

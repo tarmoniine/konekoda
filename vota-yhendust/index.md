@@ -3,9 +3,7 @@ layout: article
 title: "Võta ühendust"
 excerpt: "Palun täitke ankeet"
 image:
-  feature:
-  teaser:
-  thumb:
+  teaser: raekoda.jpg
 share: false
 ads: false
 ---

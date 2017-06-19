@@ -6,8 +6,7 @@ modified:
 excerpt: " "
 tags: []
 image:
-  feature:
-  teaser:
+  teaser: raekoda.jpg
 ---
 
 ### Loe siit, kuidas aidata ennast või oma lähedast.

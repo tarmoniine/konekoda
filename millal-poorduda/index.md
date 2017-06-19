@@ -6,8 +6,7 @@ modified: 2016-06-01T16:21:57-04:00
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
+  teaser: raekoda.jpg
 ---
 
 ## Lapsed

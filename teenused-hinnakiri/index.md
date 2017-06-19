@@ -5,8 +5,7 @@ modified:
 excerpt: ""
 tags: []
 image:
-  feature:
-  teaser:
+  teaser: raekoda.jpg
 ---
 
 ### Logopeediline uuring   
