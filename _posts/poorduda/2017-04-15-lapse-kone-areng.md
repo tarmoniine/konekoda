@@ -44,7 +44,7 @@ Logopeedi soov on lapsevanemat toetada – küsi julgesti abi!
 * ei ole huvitatud raamatute või eakohaste jutustuste kuulamisest 
 * sõnavara on väike – ta ei oska nimetada terviku väiksemaid osi (nt kulmud, ripsmed, põsed – näo osad), ei kasuta ja ei mõista üldnimetusi (nt leib, sai, piim – söögiasjad; pluus, jope, sall - riided)
 * kõne on kohati raskesti mõistetav, esineb palju hääldusprobleeme
-NB! Hääldusprobleemide puhul vt [*“Häälduspuuded – millal pöörduda”*]()
+NB! Hääldusprobleemide puhul vt [düslaalia](../poorduda/haalduspuue/)
 
 
 ## 5-aastane laps:
@@ -55,7 +55,7 @@ NB! Hääldusprobleemide puhul vt [*“Häälduspuuded – millal pöörduda”*
 * sõnavara on väike – laps ei oska nimetada vastandsõnu (nt märg – kuiv), ei mõista ja ei oska ise koostada kirjeldust
 * ei mõista talle ette loetud või jutustatud eakohast teksti
 * ei häälda kõiki häälikuid korrektselt (nt lapse kõnes pole veel R või S-häälikut või need on millegagi asendatud)
-NB! Hääldusprobleemide puhul vt [*“Häälduspuuded – millal pöörduda”*]()
+NB! Hääldusprobleemide puhul vt [düslaalia](../poorduda/haalduspuue/)
 * ei tunne ühtegi tähte, ei kirjuta oma nime
 
 ## 6-aastane laps:
@@ -67,7 +67,7 @@ NB! Hääldusprobleemide puhul vt [*“Häälduspuuded – millal pöörduda”*
 * ei tunne ühtegi tähte, ei kirjuta oma nime
 * ei oska määrata hääliku asukohta sõnas (alguses, keskel, lõpus)
 * ei häälda kõiki häälikuid korrektselt (nt lapse kõnes pole veel R või S-häälikut või need on millegagi asendatud)
-NB! Hääldusprobleemide puhul vt [*“Häälduspuuded – millal pöörduda”*]()
+NB! Hääldusprobleemide puhul vt [düslaalia](../poorduda/haalduspuue/)
 
 
 

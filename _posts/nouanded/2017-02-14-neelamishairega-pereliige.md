@@ -1,16 +1,17 @@
 ---
 layout: article
-title: "Neelamishäirega patsiendile"
+title: "Kui peres on neelamishäirega inimene"
 categories: nouanded
-excerpt: "11 soovitust tuvaliseks neelamiseks."
+excerpt: "11 soovitust turvaliseks neelamiseks."
 author: kirja_tsura
-tags: [Häälduspuuded, readability, test]
+tags: [neelamishäire]
 ads: false
 image:
   teaser: vihm.jpg
 ---
 
-### Turvalise neelamise soovitused
+**Turvalise neelamise soovitused**
+
 1. Söö istuvas asendis!
 2. Keskendu söömisele ja joomisele (lülita välja televiisor, raadio, väldi lauakaaslastega jutuajamist)!
 3. Võta söömiseks aega! Ära kiirusta!

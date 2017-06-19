@@ -9,16 +9,13 @@ image:
   teaser: raekoda.jpg
 ---
 
-## Lapsed
+Logopeedi poole pöördutakse erinevatel põhjustel. Enamlevinumad probleemid, mille puhul logopeedilt nõu küsida, on:
 
-[Lapsel on kogelus](../poorduda/laste-kogelus/)
-
-[Lapsel on häälduspuue](../poorduda/haalduspuue)
-
-[Kas lapse kõne areneb normaalselt?](../poorduda/lapse-kone-areng)
-
-## Täiskasvanud
-
-[Kas see on afaasia või düsartria?](../poorduda/afaasia-dysartria)
-
-[Kas see on dementsus?](../poorduda/dementsus)
+* Kogelus ([lastel](../poorduda/laste-kogelus/) ja [täiskasvanutel](../poorduda/taiskasvanu-kogelus/))
+* Hääldus- ja diktsiooniprobleemid (nt [düslaalia](../poorduda/haalduspuue/) või [düsartria](../poorduda/dysartria))
+* [Laste kõne arengu probleemid](../poorduda/lapse-kone-areng/) (laps räägib oma vanuse kohta kas liiga vähe või valesti)
+* Lugemis- ja kirjutamisraskused
+* [Ajukahjustusega (insult, ajukasvaja, ajutrauma) kaasnevad kõbeprobleemid](../poorduda/afaasia/)
+* [Dementsusega kaasnevad kõneprobleemid](../poorduda/dementsus)
+* Parkinsoni tõvega kaasnevad kõneprobleemid
+* Neelamisprobleemid
