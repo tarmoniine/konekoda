@@ -11,7 +11,7 @@ ads: false
 Oleme neli logopeedi, kes soovivad logopeedilise teenuse ja nõustamise inimestele lähemale tuua. Loe meist lähemalt: 
 
 <figure>
-	<img src="{{ site.url }}/images/meeskond.jpg">
+	<img src="{{ site.url }}/images/vihm.jpg">
 	<figcaption>Meie meeskond.</figcaption>
 </figure>
 
