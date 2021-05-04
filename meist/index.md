@@ -3,7 +3,7 @@ layout: article
 title: "Meist"
 excerpt: "Kes me oleme."
 image:
-  teaser: meeskond.jpg
+  teaser: vihm.jpg
 share: false
 ads: false
 ---
@@ -21,7 +21,7 @@ Oleme neli logopeedi, kes soovivad logopeedilise teenuse ja nõustamise inimeste
 ## Aaro Nursi (kliiniline logopeed, tase 7) 
 
 <figure>
-	<img src="{{ site.url }}/images/aaro.jpg">
+	<img src="{{ site.url }}/images/vihm.jpg">
 </figure>
 
 
@@ -37,7 +37,7 @@ Rohkem infot minu kohta saab lugeda [*Eesti Teadusinfosüsteemist.*](https://www
 ## Helena Oselin (kliiniline logopeed tase 8)
 
 <figure>
-	<img src="{{ site.url }}/images/helena.jpg">
+	<img src="{{ site.url }}/images/vihm.jpg">
 </figure>
 
 Lõpetasin 2002. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. 2006. a.  sain TÜ eripedagoogika osakonnas teadusmagistri kraadi. Töötasin pikalt logopeedina Ida- Tallinna Keskhaiglas, kus tegelesin nii laste kui täiskasvanutega. Alates 2014. aastast töötan Tartu Ülikooli Kliinikumi lastekliinikus ja närvikliinikus.  Ma täiendan oma teadmisi pidevalt erialastel koolitustel nii Eestis kui välismaal. Olen spetsialiseerunud kogelusteraapiale, kuid tegelen ka muude kõneprobleemidega. Mulle meeldib logopeedi töö juures võimalus aidata kliendil oma kõnet paremaks muuta. Väga sageli muutub kõneteraapia käigus paremaks ka kliendi enesetunne, suureneb enesekindlus ja paraneb toimetulek igapäevaste suhtlemisolukordadega.
@@ -56,7 +56,7 @@ Lõpetasin 2002. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. 200
 ## Liisa Kolk (logopeed, tase 7)
 
 <figure>
-	<img src="{{ site.url }}/images/liisa.jpg">
+	<img src="{{ site.url }}/images/vihm.jpg">
 </figure>
 
 Lõpetasin 2016. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pärast lõpetamist asusin tööle Tartu Ülikooli Kliinikumi närvikliinikusse, kus tegelen erinevate neuroloogiliste haigustega (nt. Parkinsoni tõbi, ALS, sclerosis multiplex) seotud kõne- ja neelamisprobleemide diagnostika ja teraapiaga. Lisaks töötan väikese koormusega rehabilitatsioonimeeskonnas. Mind huvitab väga töö täiskasvanutega, eelkõige insuldihaigete ja dementsusega isikute kõneteraapia. Leian, et õigeaegne ja oskuslik logopeediline sekkumine parandab oluliselt nii inimese kui tema lähedaste toimetulekut ja elukvaliteeti.
@@ -72,7 +72,7 @@ Lõpetasin 2016. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Pä
 ## Siiri Karm
 
 <figure>
-	<img src="{{ site.url }}/images/siiri.jpg">
+	<img src="{{ site.url }}/images/vihm.jpg">
 </figure>
 
 Lõpetasin 2010. aastal Tartu Ülikooli eripedagoogika osakonna logopeedina. Peale lõpetamist töötasin mitmel rindel: tegin logopeedi tööd erinevates lasteaedades, koolides ja ka nõustamiskeskuses. Alates 2013. aastast on minu põhitöökohaks Hariduse Tugiteenuste Keskus Tartus. Lisaks olen töötanud erinevates rehabilitatsioonimeeskondades. Minu erihuviks on laste kõne areng ja selle toetamine. Usun, et palju saab ära teha lapsevanema teadlikkuse tõstmisega – teadliku vanema ja logopeedi koostöös muutub lapsele tehtav kõnearendus topeltefektiivseks. Minu soov on jagada oma teadmisi lapsevanematega nii, et lapsevanem muutuks „oma lapse logopeediks“.
